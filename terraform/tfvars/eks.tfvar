@@ -1,0 +1,3 @@
+vpc_id = "vpc-0b8040e300fb21afd"
+
+private_subnet_ids = ["subnet-0fa7d257561f343cb", "subnet-0081ae50af9ccde80"]
