@@ -14,3 +14,5 @@ terraform.tfstate.backup
 # zip file
 ######################
 *.zip
+
+node_modules/
