@@ -32,6 +32,6 @@ module "eks" {
 
   tags = {
     Terraform   = "true"
-    Environment = "dev"
+    Environment = "development"
   }
 }
